@@ -1,6 +1,6 @@
 # Mod07.Testing
 
-Run `pytest testModule.py`
+Run `python restoreData.py` then `pytest testModule.py`
 
 ### 1. login - System.py
   - PASSES TEST
